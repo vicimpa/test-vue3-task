@@ -1,0 +1,8 @@
+{
+  "vue.format.wrapAttributes": "preserve-aligned",
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.html": "vscode.html-language-features",
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  }
+}
